@@ -10,8 +10,8 @@
 сумма финансирования и количество раундов финансирования**
 ![shap:](https://github.com/Alexrazz/company_closed/blob/master/shap.png)
 
-![phik:]("C:\Users\ASUS\Desktop\master\corr.png")
+![corr:](https://github.com/Alexrazz/company_closed/blob/master/corr.png)
 ---
 **Устранили редкие аномалии в столбце funding_total_usd**
-![phik:](https://github.com/Alexrazz/company_closed/blob/master/box.png")
+![phik:](https://github.com/Alexrazz/company_closed/blob/master/box.png)
 
