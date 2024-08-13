@@ -4,14 +4,14 @@
 Для анализа точности прогноза модели воспользуемся метрикой F1-Score, которая вычисляется на основе точности p и полноты r.**
 ----
 **Разработали модель для предсказаний.** 
-![Лучшая модель:]("C:\Users\ASUS\Desktop\master\model.png")
+![Лучшая модель:](https://github.com/Alexrazz/company_closed/blob/master/model.png)
 ---
 **На закрытие компании влияют следующие признаки: время существования компании, дата последнего финансирования,
 сумма финансирования и количество раундов финансирования**
-![shap:]("C:\Users\ASUS\Desktop\master\shap.png")
+![shap:](https://github.com/Alexrazz/company_closed/blob/master/shap.png)
 
 ![phik:]("C:\Users\ASUS\Desktop\master\corr.png")
 ---
 **Устранили редкие аномалии в столбце funding_total_usd**
-![phik:]("C:\Users\ASUS\Desktop\master\box.png")
+![phik:](https://github.com/Alexrazz/company_closed/blob/master/box.png")
 
